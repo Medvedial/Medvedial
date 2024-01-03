@@ -25,10 +25,6 @@ I possess proficiency in various programming languages, including Java, C++, and
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medvedial&theme=radical)
 
-## ⚙️Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medvedial&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medvedial&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ⭐Career Aspiration
 As a mathematician-programmer in five years, I aim to fuse advanced technical skills, leadership prowess, and commitment to pushing the boundaries of mathematical and computational knowledge. I aspire to leave a lasting mark on my organization and the scientific community.
 
