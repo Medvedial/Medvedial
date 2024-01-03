@@ -21,6 +21,9 @@ I possess proficiency in various programming languages, including Java, C++, and
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Cs" alt="Cs" width="40" height="40"/>
 </div>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medvedial&theme=radical)
 
 ## ⭐Career Aspiration
