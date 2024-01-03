@@ -1,7 +1,5 @@
 # 👋Hi, I am Ilya Medvedev
 
-![snake gif](https://github.com/Medvedial/Medvedial/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## 🏆Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Medvedial&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
