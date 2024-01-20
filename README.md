@@ -38,5 +38,16 @@ I possess proficiency in various programming languages, including Java, C++, and
 ## ⭐Career Aspiration
 As a mathematician-programmer in five years, I aim to fuse advanced technical skills, leadership prowess, and commitment to pushing the boundaries of mathematical and computational knowledge. I aspire to leave a lasting mark on my organization and the scientific community.
 
+## ⭐Career Aspiration
+As a mathematician-programmer in five years, I aim to fuse advanced technical skills, leadership prowess, and commitment to pushing the boundaries of mathematical and computational knowledge. I aspire to leave a lasting mark on my organization and the scientific community. In pursuit of my aspirations, I plan to engage rigorously with interdisciplinary projects, integrating mathematical theories with innovative computational methodologies. By fostering collaborative environments that encourage diverse perspectives, I aim to inspire and lead teams toward groundbreaking solutions that transcend conventional boundaries in both academia and industry. Moreover, I intend to leverage emerging technologies and mentor emerging talents, thereby leaving an enduring legacy of advancements in mathematical and computational sciences.
+
+## 🔭Hobbies and Interests
+- Web Surfing: Researching IT topics and staying updated
+- Reading: Continuous learning through tech articles and books
+- Writing: Crafting clear and concise technical documents and guides
+
+## ⚡Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexHunter15&theme=java-dark)](https://git.io/streak-stats)
+
 ## 📚Languages
 Russian (native), Belarusian, English(B1)
