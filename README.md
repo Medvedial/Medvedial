@@ -1,6 +1,6 @@
 # 👋Hi, I am Ilya Medvedev
 
-## 💻IT Skills
+## 💻MY IT Skills
 Main direction: Back-end (Junior С++ Developer)  
 I possess proficiency in various programming languages, including Java, C++, and C#. My skills enable me to develop a wide range of software applications and solutions. Specifically:
 - C++ (Intermediate): High-performance software, resource-intensive applications, and systems programming
