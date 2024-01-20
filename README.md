@@ -1,13 +1,22 @@
 # 👋Hi, I am Ilya Medvedev
 
-## 🏆Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Medvedial&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 💻IT Skills
+Main direction: Back-end (Junior С++ Developer)  
 I possess proficiency in various programming languages, including Java, C++, and C#. My skills enable me to develop a wide range of software applications and solutions. Specifically:
-- Java: Platform-independent applications
-- C++: High-performance software, resource-intensive applications, and systems programming
-- C#: Windows applications and web services
+- C++ (Intermediate): High-performance software, resource-intensive applications, and systems programming
+  1. Unit Testing
+  2. Boost
+  3. WinAPI
+  4. QT
+- Java (Novice) : Platform-independent applications
+  1. JUnit
+  2. Intellij
+  3. JavaFX
+  4. Maven
+- C# (Novice) : Windows applications and web services
+
+  ## 🏆Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Medvedial&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠Technologies and tools
 <div>
