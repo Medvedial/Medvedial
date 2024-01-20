@@ -44,7 +44,7 @@ As a mathematician-programmer in five years, I aim to fuse advanced technical sk
 - Writing: Crafting clear and concise technical documents and guides
 
 ## ⚡Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexHunter15&theme=java-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Medvedial&theme=java-dark)](https://git.io/streak-stats)
 
 ## 📚Languages
 Russian (native), Belarusian, English(B1)
